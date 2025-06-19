@@ -18,7 +18,7 @@ Given an image of a driver, classify their activity into one of **10 distraction
 
 Example predictions:
 
-[![Driver Distraction Demo](https://i.imgur.com/aP4sD9m.jpg)](https://imgur.com/a/rzh37jy)
+[![Driver Distraction Demo](https://imgur.com/wSnOss0)](https://imgur.com/a/rzh37jy)
 
 
 
