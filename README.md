@@ -18,7 +18,7 @@ Given an image of a driver, classify their activity into one of **10 distraction
 
 Example predictions:
 
-![Driver Action]((assets/img2.png))
+![Driver Action](assets/img2.png)
 
 
 
