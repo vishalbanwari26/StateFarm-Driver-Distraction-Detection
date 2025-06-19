@@ -18,7 +18,8 @@ Given an image of a driver, classify their activity into one of **10 distraction
 
 Example predictions:
 
-[(https://imgur.com/a/rzh37jv)]
+[![Driver Distraction Demo](https://i.imgur.com/aP4sD9m.jpg)](https://imgur.com/a/rzh37jy)
+
 
 
 > 🔍 Predictions generated using a fine-tuned ResNet18 model on 224x224 driver images.
